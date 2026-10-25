@@ -1,0 +1,4 @@
+# Nmap 7.991 scan initiated Sun Oct 25 04:17:18 2026 as: /usr/lib/nmap/nmap --privileged -sS -sV -Pn -oA results.txt 192.168.86.129
+Host: 192.168.86.129 ()	Status: Up
+Host: 192.168.86.129 ()	Ports: 135/open/tcp//msrpc//Microsoft Windows RPC/, 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/open/tcp//microsoft-ds//Microsoft Windows 7 - 10 microsoft-ds (workgroup: WORKGROUP)/, 5357/open/tcp//http//Microsoft HTTPAPI httpd 2.0 (SSDP|UPnP)/, 49152/open/tcp//msrpc//Microsoft Windows RPC/, 49153/open/tcp//msrpc//Microsoft Windows RPC/, 49154/open/tcp//msrpc//Microsoft Windows RPC/, 49155/open/tcp//msrpc//Microsoft Windows RPC/, 49156/open/tcp//msrpc//Microsoft Windows RPC/, 49160/open/tcp//msrpc//Microsoft Windows RPC/	Ignored State: closed (990)
+# Nmap done at Sun Oct 25 04:18:22 2026 -- 1 IP address (1 host up) scanned in 64.72 seconds
